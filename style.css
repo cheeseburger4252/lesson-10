@@ -6,37 +6,20 @@ body
     justify-content: center;
     align-items: center;
 }
-button
+h3, h1
 {
-    font-size: xx-large;
     color: white;
-    background-color: rgba(0, 0, 0, 0.229);
-    border-radius: 15px;
+    font-family: Arial;
+    text-align: center;
 }
-button:hover
+ul
 {
-    background-color: rgba(0, 0, 0, 0.332);
+    color: white;
+    background-color: rgb(0, 0, 0);
+    font-family: "Consolas";
 }
-.activity
+img
 {
-    background-color: rgba(240, 248, 255, 0.5);
-    font-size: xx-large;
-    height: 600px;
-    width: 1000px;
-}
-.filters
-{
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr;
-    grid-template-rows: repeat(1fr, 5);
-}
-.filters p
-{
-    margin-left: 6px;
-    font-weight: bold;
-    font-size: larger;
-}
-.skinuti
-{
-    margin: 5px;
+    height: 200px;
+    width: 200px;
 }
