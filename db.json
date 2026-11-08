@@ -1,0 +1,98 @@
+{
+    "games":[
+        {
+            "id": 1,
+            "name": "Cyberpunk 2077",
+            "developers": "CDProjectRed",
+            "release_date":"15.02.2020",
+            "photo_url":"https://image.api.playstation.com/vulcan/ap/rnd/202008/0416/6Bo40lnWU0BhgrOUm7Cb6by3.png"
+        },
+        {
+            "id": 2,
+            "name": "Wicher 3",
+            "developers": "CDProjectRed",
+            "release_date":"18.05.2015",
+            "photo_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4W1vIi4zbt_L-m8Dm-VeW13p52QnV69WZld0MOIBGaA&s"
+        },
+        {
+            "id": 3,
+            "name": "Half-Life 2",
+            "developers": "Valve",
+            "release_date":"16.11.2004",
+            "photo_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxQD-azyHuiUoL3lH1YtiZMwQDC8Wcej9nYSmmVsSpfg&s=10"
+        },
+        {
+            "id": 4,
+            "name": "Minecraft",
+            "developers": "Mojang",
+            "release_date":"17.05.2009",
+            "photo_url":"data:image/jpeg;base64,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"
+        },
+        {
+            "id": 5,
+            "name": "Undertale",
+            "developers": "Toby Fox",
+            "release_date":"15.09.2015",
+            "photo_url":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAPYAAACNCAMAAACzKXf4AAAAn1BMVEUAAAD///9gYGCIiIj7+/uamprm5ubh4eHT09OWlpasrKwSEhJBQUGDg4MVFRVHR0ciIiLZ2dlsbGzAwMBlZWVOTk7z8/NWVlZ4eHguLi4MDAyQkJDLy8vqAADt7e0oKCg4ODijo6PwWVr98PH0ubjyo6L44Nr85uf0r67znqLvT1D5ycrsHSLtLzXrABfuOD7wRkf56uT0eXvxaGnyh4d429YUAAAEIklEQVR4nO2Y2WKbOBhGxWrAxpjFgFliaNIkbToznU7f/9kGyUgIUDCTjJtefOfG1o+QdLQhIAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAvyen01FnZDTVJHrPngT8r37urhyyPpE0XTZ+kyBhhTVNNo/vdAXJqTmQYp6/b0pxmtXQcZTigeSwn5eTLVsXue9ojJQmLY0TkJj/NaPuSpTypEUK19hoE1j1ZWnP4940xMjLjJxLd5afYpNz7lfz+IYcRHMrSSIoLXNaxH5Z2zcqXldHKe7bDc1No+2WJHc86ZLCKsNpk067M9lbrqI71Np+p31S5KeEnbah0HbIQTQ3lrWt9m6SdbNd1N5WdnpV282PI+19ym/SRC87oU/OqT3tdVnb1EzK5Z6NbZBAkZ9dI00sahhp70Rc1s7vZuVc0xbdvaBt5dlYW9XWbvIfFNGRduetia6yyFFZDtXeOaq4QwIxy2RtX1HE+7VNp/JV2qYTy0uTaS+N9v3D50ft6flL+j5t8xdpd3gq7dSK5AV4dbSfvtYP2su3+v592hc+ULtMvHAjxlfWtp3wwkbW/lR/fnr+45bam77aML6d9l20b3a+9GAbtNsmuHAcaf/519fvNx3tqK822C1ar9VuSSaW8aBNzyiR6A5Z25eqEOU8fq/rb3Vd/83zZ69o22/WPi/brtaOLXZqsZ1hMq/Rth1K6EW5vJM/Pv6o/3l5ETv5IaIkhigi1llEF9pxa9Ec3lrtkNXrtJFevEvby9tpn6/R7nEMd9Cmtj/rH/fDA6xnmEgeD3Ft+ugcmrV6S3P8fL12sWsGx167zcppmbL2KVCv7TBmWHoka5vaw89naQvs0V/XrrzWKEsjXqtdXeot9f8w2ts8F+dwru0TfUk781uldvefsi+248OpaZpSnuvaZs9a7WzP6t0Wy9bjSa5HQxN7bYMkS9pBbim1lVuadjmlcfF2hfaYW2xpE4R29246fu+QtWWlq8eVi7imlb4+asOCdk4Thq+Y5EOBhvK4svwGtka7GecR2nZG2tXa0qnV6N5sVmpHTFu1tgWpWnvtceV17bNhyYfQ4ZQWt3Irroy2HVf9eqiq2OuI1mpnR8UDbND2b6RN5M8Pb34DCyNr/FK8Zm33XeN+kHarDdNUrW1e03byifaanfyDtY+5K3ZstTbNtajdb73yx6n/R/uNa9tUwbS7n167ez7f9RmZ9jz/RVsV91iUa/spvzJo8zaMtFlAaLNURbWnFbDRnlV7RbvIDSXlgej0p/9AeQ4yn1/J6CfEKS7rQ2VcL9m/pBfi5Rji42bD21AmPHTI2U1u0/f6pYiIfmOb4gckmLf/yuEUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD8Av4F1sNRG/7OjO4AAAAASUVORK5CYII="
+        },
+        {
+            "id": 6,
+            "name": "Clash Royale",
+            "developers": "Supersell",
+            "release_date":"02.03.2016",
+            "photo_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQemiXiEF0wbjtxXlTEhW1uRCEkjJlqcQifasD6g5vXuw&s=10"
+        }
+        
+    ],
+    "characters":
+    [
+        {
+            "id": 1,
+            "name": "Jonny Silverhand",
+            "game_id": 1,
+            "price": 202.3,
+            "description":"A cool rocker guy with a metal arm and an attitude stuck in your head, literally.",
+            "photo_url":"https://images.cgames.de/images/gsgp/290/cyberpunk-2077_6381969.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Gerald",
+            "game_id": 2,
+            "price": 350,
+            "description":"A cool guy riding a horce Plotva and finting evil",
+            "photo_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFURKQNKgQzF1j7oKFcmEnSr3ACBtKUhQu-gYnPqJ79MBY6S5l2_Wr65u_&s=10"
+        },
+        {
+            "id": 3,
+            "name": "Gordon Freeman",
+            "game_id": 3,
+            "price": 1.99,
+            "description":"Costs just as much as a beer, and will never interrupt you.",
+            "photo_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStvq9wKufB0c8VjwLDAKj5ABSEgz1ue3cDwV84sUEM2g&s"
+        },
+        {
+            "id": 4,
+            "name": "Steve",
+            "game_id": 4,
+            "price":2500,
+            "description":"Not wery talkative, but he is strong enough to carry anything.",
+            "photo_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIBtBMlGnbH0FAhkE2pxviNjFyee98WfyuHQcx6szZSzFLqnO6IC6ug38&s=10"
+        },
+        {
+            "id": 5,
+            "name": "Sans",
+            "game_id": 5,
+            "price": -10,
+            "description":"Has awful jokes",
+            "photo_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjc42YM445X1U0WzOEwC6MlL8PFz6J3OC9C0lN87hlJw&s=10"
+        },
+        {
+            "id": 6,
+            "name": "Barbar",
+            "game_id": 6,
+            "price": 1,
+            "description":"ARRRGH!, RRAH!",            
+            "photo_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSOCVR-QhW9I6_B9_suE29mp8L9x-Yn299qD3VARh0jg&s=10"
+        }
+    ]
+}
