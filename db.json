@@ -5,42 +5,48 @@
             "name": "Cyberpunk 2077",
             "developers": "CDProjectRed",
             "release_date":"15.02.2020",
-            "photo_url":"https://image.api.playstation.com/vulcan/ap/rnd/202008/0416/6Bo40lnWU0BhgrOUm7Cb6by3.png"
+            "photo_url":"https://image.api.playstation.com/vulcan/ap/rnd/202008/0416/6Bo40lnWU0BhgrOUm7Cb6by3.png",
+            "description": "Cool shooter about a guy who got shot in the head, and is now schyzofrenic."
         },
         {
             "id": 2,
             "name": "Wicher 3",
             "developers": "CDProjectRed",
             "release_date":"18.05.2015",
-            "photo_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4W1vIi4zbt_L-m8Dm-VeW13p52QnV69WZld0MOIBGaA&s"
+            "photo_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4W1vIi4zbt_L-m8Dm-VeW13p52QnV69WZld0MOIBGaA&s",
+            "description":"A game about horses, coin and a witcher."
         },
         {
             "id": 3,
             "name": "Half-Life 2",
             "developers": "Valve",
             "release_date":"16.11.2004",
-            "photo_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxQD-azyHuiUoL3lH1YtiZMwQDC8Wcej9nYSmmVsSpfg&s=10"
+            "photo_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxQD-azyHuiUoL3lH1YtiZMwQDC8Wcej9nYSmmVsSpfg&s=10",
+            "description":"Wake up in a train from a 20 year coma to blow up a big tower."
         },
         {
             "id": 4,
             "name": "Minecraft",
             "developers": "Mojang",
             "release_date":"17.05.2009",
-            "photo_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJAAHYYQvqBE8DtFIzYT9t_xiunwYEdu2_Ruswv-NEGg&s=10"
+            "photo_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJAAHYYQvqBE8DtFIzYT9t_xiunwYEdu2_Ruswv-NEGg&s=10",
+            "description":"Block"
         },
         {
             "id": 5,
             "name": "Undertale",
             "developers": "Toby Fox",
             "release_date":"15.09.2015",
-            "photo_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSja3GvKX3DgowR50lfo4NkudrUw-pEZlJ4gRXEAl_a0g&s=10"
+            "photo_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSja3GvKX3DgowR50lfo4NkudrUw-pEZlJ4gRXEAl_a0g&s=10",
+            "description":"You play as a child, who fell underground, which is full of furries."
         },
         {
             "id": 6,
             "name": "Clash Royale",
             "developers": "Supersell",
             "release_date":"02.03.2016",
-            "photo_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQemiXiEF0wbjtxXlTEhW1uRCEkjJlqcQifasD6g5vXuw&s=10"
+            "photo_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQemiXiEF0wbjtxXlTEhW1uRCEkjJlqcQifasD6g5vXuw&s=10",
+            "description":"Skachat oboi Clesh Royal"
         }
         
     ],
