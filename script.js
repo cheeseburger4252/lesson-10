@@ -19,7 +19,7 @@ $.ajax(`https://raw.githubusercontent.com/cheeseburger4252/lesson-10/main/db.jso
                         <img src="${game.photo_url}" alt="">
                         <p><b>Developers:</b> ${game.developers}</p>
                         <p><b>Year:</b> ${game.release_date}</p>
-                        <p><b>Description:</b${game.description}</p>
+                        <p><b>Description:</b>${game.description}</p>
                         <a href="https://store.steampowered.com">Buy</a>
                     </div>`);  
             });
